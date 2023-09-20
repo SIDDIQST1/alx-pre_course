@@ -1,0 +1,2 @@
+#ignore file starting with ~ so as to never push them
+*~
